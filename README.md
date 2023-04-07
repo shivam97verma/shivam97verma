@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam97verma
-- 👀 I’m interested in data analyst.
-- 🌱 I’m currently learning python, machine learning.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently CDAC DVLSI.
 - 💞️ I’m looking to collaborate on coding community.
 - 📫 How to reach me ......
 
